@@ -1,0 +1,9 @@
+{
+    "type" : "IconPack",
+    "name" : "Powered Steel (Arrows)",
+    "author" : "RecklessBoon",
+    "repository" : "https://github.com/RecklessBoon/Macro-Deck-Icon-Powered-Steel-Arrows",
+    "packageId" : "RecklessBoon.PoweredSteel.Arrows",
+    "version" : "1.0.0",
+    "target-plugin-api-version" : 36
+  }
